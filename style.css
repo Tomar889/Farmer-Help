@@ -1,0 +1,46 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.mar{
+
+    margin-top: 4px;
+    color: white;
+    height: 5vh;
+}
+.img{
+    display: flex;
+    justify-content: center;
+}
+.img-fluid{
+    z-index: 1;
+    position: relative;
+    margin-top: 10px;
+    width: 100%;
+    height: 550px!important;
+    
+}
+.upperimg{
+    border-radius: 20px;
+    margin-top: 320px;
+    z-index: 2;
+   position: absolute;
+    height: 100px;
+    width: 20%;
+}
+
+.seeds .card{
+    border: 2px solid black;
+}
+.row{
+    color: white;
+    background-color: black;
+}
+
+.footer-content ul li{
+    color: white;
+}
+
+
